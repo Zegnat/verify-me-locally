@@ -1,0 +1,12 @@
+This WebExtension is based on an idea for distributed profile verification by
+Kevin Marks. His implementation uses the great IndieWebify.Me, while this
+version keeps everything contained to the user’s browser.
+→ https://github.com/indieweb/verify-me
+
+The current application icon(s) are from the Firefox OS Emojis project and used
+under Creative Commons Attribution 4.0 International (CC BY 4.0).
+→ https://github.com/mozilla/fxemoji
+
+The verification icons are by Kevin Marks, who has given permission for their
+inclusion in this extension.
+→ http://www.kevinmarks.com/
