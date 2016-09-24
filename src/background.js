@@ -54,7 +54,7 @@ function fetchNext (urls, respond, data) {
     let url = urls.shift()
     window.fetch(url, {
       method: 'HEAD',
-      headers: new Headers({ 'User-Agent': '' })
+      headers: new Headers({ 'User-Agent': 'verify-me-locally' })
     }).then(function (response) {
       if (response.url === data.to) {
         respond({status: 'verified', index: data.index})
