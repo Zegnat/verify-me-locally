@@ -1,3 +1,12 @@
+As of 2018-11-04, most of this code base was absorbed into the original
+extension by Kevin Marks. Please go there to find the extension for both
+Chrome and Firefox. Future issues should also be filed there.
+→ https://github.com/indieweb/verify-me
+
+This repository is only kept for posterity.
+
+===
+
 This WebExtension is based on an idea for distributed profile verification by
 Kevin Marks. His implementation uses the great IndieWebify.Me, while this
 version keeps everything contained to the user’s browser.
